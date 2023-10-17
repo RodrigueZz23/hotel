@@ -1,0 +1,471 @@
+body {
+    margin:0;
+    padding:0;
+}
+.section-one {
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+    background-color: black;
+}
+.sylvain {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.sylvain img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 80%;
+}
+
+nav{
+    position: relative;
+    top: -200px;
+}
+li a{
+    text-decoration: none;
+    color: white;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    display: inline;
+    margin-left: 50px; 
+    position: relative;
+    top: -580px;
+    left: 520px;
+}
+li a:hover{
+    text-decoration: underline;
+    position: relative;
+    top: 5px;
+}
+.text1{
+    position: relative;
+    top: -690px;
+    color: white;
+   text-align: center;
+}
+.text2{
+    position: relative;
+    top: -700px;
+    color: white;
+   text-align: center;
+    font-size: 70px;
+}
+.text3{
+    position: relative;
+    top: -700px;
+    color: white;
+    text-align: center;
+}
+.text4{
+    position: relative;
+    top: -700px;
+    color: white;
+    text-align: center;
+}
+.text5{
+    position: relative;
+    top: -715px;
+    color: white;
+    text-align: center;
+}
+.buy-ticket-button {
+    display: inline-block;
+    padding: 15px 30px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    transition: background-color 0.3s;
+    position: relative;
+    top: -690px;
+    left: 750px;
+   font-size: 12px;
+}
+
+/* Effet de survol */
+.buy-ticket-button:hover {
+    background-color: #292929;
+    color: white;
+}
+
+.section-two{
+    padding: 100px;
+    background-color: #7F0B28;
+}
+.text6{
+    text-align: center;
+    color: white;
+    position: relative;
+    top: -5px;
+}
+.text7{
+    text-align: center;
+    color: white;
+    position: relative;
+    top: -5px;
+    font-size: 35px;
+}
+.text8{
+    text-align: center;
+    color: white;
+    position: relative;
+    top: -5px;
+
+}
+.two {
+    position: relative;
+    top: -10px;
+}
+
+.section-three{
+    background-color: white;
+    padding: 50px;
+}
+.daniele img{
+    width: 500px;
+    height: 100vh;
+    position: relative;
+    left: 200px;
+}
+.raychan img{
+    width: 500px;
+    height: 100vh;
+    position: relative;
+    left: 850px;
+    top: -818px;
+}
+
+.section-four{
+    background-color: #F1F1F1;
+    padding: 380px;
+    position: relative;
+    top: -825px;
+}
+.hd img{
+    width: 600px;
+    height: 110vh;
+    position: relative;
+    left: 470px;
+    top: -380px;
+}
+.text9{
+    position: relative;
+    top: -1100px;
+    font-size: 30px;
+    right: 90px;
+}
+.four{
+    position: relative;
+    left: 25px;
+    top:-20px;
+}
+.text10{
+    position: relative;
+    top: -1120px;
+    right: 120px;
+}
+.six{
+    position: relative;
+    top: -10px;
+    left: 10px;
+}
+.section-five{
+    margin: 0;
+    padding: 0;
+}
+.renaissance img{
+    position: relative;
+    top: -2000px;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.section-trait{
+    background-color: white;
+    padding: 20px 400px;
+    position: relative;
+    top: -2975px;
+    width: 200px;
+    left: 300px;
+}
+.text11{
+    color: white;
+    position: relative;
+    top: -2860px;
+}
+.seven{
+    position:absolute;
+    left: 200px;
+    top: -130px;
+}
+.eight{
+    position: absolute;
+    left: 1350px;
+    top: -130px;
+}
+.section-six{
+    background-color: white;
+    position: relative;
+    top: -2080px;
+    padding: 400px;
+}
+.fete img{
+    position: relative;
+    width: 580px;
+    height: 75vh;
+    top: -280px;
+    right: 200px;
+}
+
+.text12{
+    position: absolute;
+    top: 200px;
+    left: 120vh;
+    color: #7F0B28;
+}
+.text13{
+    position: absolute;
+    top: 270px;
+    left: 120vh;
+    font-size: 30px;
+}
+.text14{
+    position: absolute;
+    top: 480px;
+    left: 120vh;
+}
+.text15{
+    position: absolute;
+    top: 580px;
+    left: 130vh;
+}
+.ten{
+    position: relative;
+    top: -30px;
+}
+.deux{
+    position: relative;
+    top: -10px;
+}
+.trois{
+    position: relative;
+    top: -20px;
+}
+.cinq{
+    position: relative;
+    top: -10px;
+}
+.quote img{
+    position: relative;
+    top: -415px;
+    width: 50px;
+    left: 70vh;
+    opacity: 20%;
+}
+.section-seven{
+    position: relative;
+    padding:  50%;
+    background-color: #F1F1F1;
+    top: -2680px;
+}
+.text16{
+    position: absolute;
+    top: 100px;
+    left: 85vh;
+}
+.text17{
+    position: absolute;
+    top: 150px;
+    left: 80vh;
+    font-size: 30px;
+}
+.text18{
+    position: absolute;
+    top: 255px;
+    left: 70vh;
+}
+.sept{
+    position:relative;
+    top: -10px;
+    left: 50px;
+}
+.ansh img{
+    position: relative;
+    top:  -200px;
+    width: 500px;
+    height: 70vh;
+    left: 10vh;
+}
+.text19{
+    position: absolute;
+    top: 770px;
+    left: 50vh;
+    font-size: 18px;
+}
+.text20{
+    position: absolute;
+    top: 880px;
+    left: 50vh;
+}
+.neuf{
+    position: relative;
+    top: -10px;
+}
+.dix{
+    position: relative;
+    top: -20px;
+}
+.onze{
+    position: relative;
+    top: -30px;
+}
+.timi img{
+    position: relative;
+    width: 550px;
+    right: 70vh;
+    height: 77vh;
+}
+.text21{
+    position: absolute;
+    top: 1580px;
+    left: 120vh;
+    font-size: 18px;
+}
+.text22{
+    position:absolute;
+    top: 1700px;
+    left: 120vh;
+}
+.treize{
+    position: relative;
+    top: -10px;
+}
+.quatorze{
+    position: relative;
+    top: -20px;
+}
+.quinze{
+    position: relative;
+    top: -30px;
+}
+.people img{
+    position: relative;
+    width: 580px;
+    height: 75lvh;
+    top: 280px;
+    left: 2vh; 
+}
+.text23{
+    position: absolute;
+    top: 2500px;
+    left: 50vh;
+    font-size: 18px;
+}
+.text24{
+    position: absolute;
+    top: 2600px;
+    left: 50vh;
+}
+.dix-sept{
+    position: relative;
+    top: -10px;
+}
+.dix-huit{
+    position: relative;
+    top: -20px;
+}
+.dix-neuf{
+    position: relative;
+    top: -30px;
+}
+.section-eight{
+    background-color: white;
+    padding: 40%;
+    position: relative;
+    top: -3070px;
+}
+.text25{
+    position: absolute;
+    top: 180px;
+    left: 50vh;
+    font-size: 25px;
+}
+.text26{
+    position: absolute;
+    top: 280px;
+    left: 50vh;
+}
+.text27{
+    position: absolute;
+    top: 180px;
+    left: 120vh;
+}
+.text28{
+    position: absolute;
+    left: 120vh;
+    top: 245px;
+}
+.text29{
+    position: absolute;
+    left: 120vh;
+    top: 37vh;
+}
+.text30{
+    position: absolute;
+    left: 120vh;
+    top: 43vh;
+}
+.text31{
+    position: absolute;
+    left: 120vh;
+    top: 49vh;
+}
+.buy-ticket-button2{
+    display: inline-block;
+    padding: 15px 50px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    transition: background-color 0.3s;
+    position: absolute;
+    top: 480px;
+    font-size: 12px;
+    left: 120vh;
+    border: 2px solid black;
+}
+.buy-ticket-button2:hover {
+    background-color: #292929;
+    color: white;
+}
+.text32{
+    position: absolute;
+    text-align: center;
+    top: 800px;
+    font-size: 20px;
+    left: 70vh;
+}
+.input{
+    position: relative;
+    top: 290px;
+    border: 1px solid black;
+}
+.text33{
+    position: absolute;
+    top: 900px;
+}
+
+footer{
+    background-color: #75011E;
+    padding: 15%;
+}
+
